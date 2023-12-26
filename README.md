@@ -1,0 +1,1 @@
+# Share-and-NTFS-Permissions-Configuration
